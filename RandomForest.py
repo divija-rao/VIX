@@ -1,4 +1,3 @@
-#Reference: AssemblyAI 
 from DecisionTree import DecisionTree
 import numpy as np
 from collections import Counter
