@@ -19,7 +19,7 @@ The models predicted VIX forecast to increase to a mean of 20.11 and median of 1
 
 As part of this project, I also authored two Medium articles to share my findings and insights:
 
-1. "The Art and Science of VIX Analysis" [https://medium.com/@divijarao.b/the-art-and-science-of-vix-analysis-f0e2ae7de16e](https://medium.com/@divijarao.b/the-art-and-science-of-vix-analysis-f0e2ae7de16e)
-2. "The VIX Saga Continues: Unraveling Market Volatility with Advanced Time Series Models" https://medium.com/@divijarao.b/the-vix-saga-continues-unraveling-market-volatility-with-advanced-time-series-models-cf2339251299
+1. `The Art and Science of VIX Analysis (https://medium.com/@divijarao.b/the-art-and-science-of-vix-analysis-f0e2ae7de16e)`
+2. `The VIX Saga Continues: Unraveling Market Volatility with Advanced Time Series Models (https://medium.com/@divijarao.b/the-vix-saga-continues-unraveling-market-volatility-with-advanced-time-series-models-cf2339251299)`
 
 These blog posts delve deeper into the concepts explored in my personal project, offering a more comprehensive look at VIX analysis and market volatility modeling.
