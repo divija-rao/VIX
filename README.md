@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository represents a personal project by Divija Balasankula, driven by my passion for financial markets and extending beyond a course project in my Financial Mathematics program at NISHIE University. The project focuses on forecasting the CBOE Volatility Index (VIX), often called the "fear index," to understand and predict market volatility dynamics using advanced time series and machine learning models. By modeling VIX futures, the project aims to provide actionable insights for trading strategies, leveraging both traditional time series models (SARIMA, SARIMAX, GARCH) and exploring the potential of machine learning techniques (ensemble methods, deep learning, gradient boosting). The work includes data analysis, model calibration, performance evaluation, and the development of volatility-based trading strategies.
+This repository represents a personal project by Divija Balasankula, driven by my passion for financial markets and extending beyond a course project in my Financial Mathematics program at NC State University. The project focuses on forecasting the CBOE Volatility Index (VIX), often called the "fear index," to understand and predict market volatility dynamics using advanced time series and machine learning models. By modeling VIX futures, the project aims to provide actionable insights for trading strategies, leveraging both traditional time series models (SARIMA, SARIMAX, GARCH) and exploring the potential of machine learning techniques (ensemble methods, deep learning, gradient boosting). The work includes data analysis, model calibration, performance evaluation, and the development of volatility-based trading strategies.
 
 **Contact**: Divija Balasankula (drbalasa@ncsu.edu)
 
