@@ -186,7 +186,7 @@ For questions or collaboration, reach out to:
 - Divija Balasankula: drbalasa@ncsu.edu
 
 ## Acknowledgments
-- Institution: NISHIE University, Financial Mathematics Department
+- Institution: NC State University, Financial Mathematics Department
 - Inspiration: My coursework and personal interest in financial market dynamics
 
 ---
