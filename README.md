@@ -72,12 +72,12 @@ Based on the forecasted VIX increase (mean: 20.11, median: 19.70) and insights f
    - **Strategy**: Buy VIX call options with strike prices near or above the forecasted mean (20.11). This strategy profits if the VIX rises as expected, leveraging the "fear index" directly.
    - **Implementation**: Choose options with expirations matching the forecast period (e.g., 1-3 months) and monitor VIX futures term structure for optimal entry points.
 
-4. **VIX Futures Spread** (Expanded Strategy):
+4. **VIX Futures Spread**:
    - **Rationale**: The VIX futures term structure often exhibits contango or backwardation, which can be exploited alongside the forecast.
    - **Strategy**: If the term structure is in contango (longer-dated futures priced higher), consider a calendar spread by going long near-term VIX futures and short longer-term futures, expecting convergence as volatility rises.
    - **Implementation**: Analyze the VIX futures curve and enter spreads when the forecast aligns with a steep contango, adjusting positions based on model updates.
 
-5. **Hedging with VIX ETFs** (Expanded Strategy):
+5. **Hedging with VIX ETFs**:
    - **Rationale**: VIX-related exchange-traded funds (ETFs) like VXX provide a liquid way to hedge equity portfolios against predicted volatility spikes.
    - **Strategy**: Allocate a portion of the portfolio to long positions in VIX ETFs when the model predicts rising VIX levels. This hedges against potential equity market downturns.
    - **Implementation**: Use VXX or similar ETFs, scaling position size based on portfolio risk and VIX forecast confidence.
